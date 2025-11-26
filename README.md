@@ -1,6 +1,6 @@
 # Phần mềm chuyển ảnh thành tranh vẽ
 
-**Đề tài 4 - Xử lý ảnh và ứng dụng**
+**Đề tài 4 - Xây dựng phần mềm chuyển ảnh thành tranh vẽ**
 
 ## Mô tả
 
